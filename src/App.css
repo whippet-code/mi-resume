@@ -1,7 +1,6 @@
 .App {
-  width: 100vw;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   padding: 2rem;
   align-items: center;
   margin: 0 auto;
@@ -9,6 +8,7 @@
 
 .left-side {
   width: 60vw;
+  padding-left: 2rem;
 }
 
 .right-side {
@@ -16,7 +16,8 @@
 }
 
 .right-side img {
-  max-width: 20vw;
+  max-width: 25vw;
+  aspect-ratio: original;
 }
 
 .links {
@@ -50,8 +51,13 @@ h5 {
   color: darkgoldenrod;
 }
 
+h1 {
+  font-size: 3rem;
+  font-weight: 200;
+}
+
 a:hover {
-  transform: rotate(360deg);
+  transform: scale(1.1);
   transition: 0.5s ease-in-out;
 }
 
