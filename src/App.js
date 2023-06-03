@@ -24,12 +24,12 @@ const tech = {
 
 const experience = {
   title: "Experience",
-  text: "Hyperiondev, Web Development — Developer Bootcamp\nDec 2022 - Mar 2023\nCurrently graduated, intensive three month jobs based skills bootcamp. Covering all aspects of MERN stack for commercial web development environments and deployment.\n\nHarvard — CS50x Intro to Computer Science\nApr 2022 - Nov 2023 - Online\nWide spectrum intro to C.S. giving a solid grounding into algorithms, data structures, correct coding practices and software solutions. Technologies covered; C, Javascript, Python, SQLite3, Flask.\n\nSKILLS\nHighly motivated self-starter. Managing teams and self under pressure. Leading coaching & training workshops. Problem dissection. Creative design.\nTools - Adobe suite, github, Open-ai, VS Code",
+  text: "Hyperiondev, Web Development — Developer Bootcamp\nDec 2022 - Apr 2023\nGraduated, intensive Full Stack developer skills bootcamp. Covering all aspects of MERN stack for commercial web development environments and deployment.\n\nHarvard — CS50x Intro to Computer Science\nApr 2022 - Nov 2023 - Online\nWide spectrum intro to C.S. giving a solid grounding into algorithms, data structures, correct coding practices and software solutions. Technologies covered; C, Javascript, Python, SQLite3, Flask.\n\nSKILLS\nHighly motivated self-starter. Managing teams and self under pressure. Leading coaching & training workshops. Problem dissection. Creative design.\nTools - Adobe suite, github, Open-ai, VS Code",
 };
 
 const projects = {
   title: "Projects",
-  text: "PhotoMooch fullstack multi-user & admin web app, providing creative prompts for users.\nPhotonotes Field log app.\nBuilt a complete web based messaging board app with multi-user log-in and database referencing for Harvard CS50x final project.\nHyperiondev capstone projects.\nJoint founder of PhotoMooch, art therapy / wellbeing collective.",
+  text: "PhotoMooch fullstack multi-user & admin web app, providing creative prompts for users. Built with React, express, node.js & MongoDB. Utilising JWT for auth and backend access for admin accounts only.\nPhotonotes Field log app.\nBuilt a complete web based messaging board app with multi-user log-in and database referencing for Harvard CS50x final project.\nHyperiondev capstone projects.\nJoint founder of PhotoMooch, art therapy / wellbeing collective.",
 };
 
 const cards = [summary, tech, experience, projects];
