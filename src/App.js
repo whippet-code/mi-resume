@@ -12,6 +12,8 @@ import github from "./images/icons8-github-50.png";
 import portfolio from "./images/icons8-developer-50.png";
 
 // Text info for blurb
+// Update these to an object, add more exp and store in its own file.
+// Then map the object for each section.
 const summary = {
   title: "Summary",
   text: "A dedicated web developer with experience building for front-end and full stack. Passionate about creative design solutions and skilled in React.js, Javascript, CSS, HTML, Node.js & Express. Determined breaker down of problems with a love for collaboration and a passion for continual learning. Also rather partial to Cyberpunk, pedaling bikes and breathwork. Has many cameras.",
